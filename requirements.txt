@@ -1,0 +1,8 @@
+albumentations==1.4.0
+numpy==1.19.2
+pandas==0.24.2
+Pillow==10.2.0
+PyYAML==6.0.1
+scikit_learn==1.4.1.post1
+torch==1.8.0a0+17f8c32
+tqdm==4.31.1
