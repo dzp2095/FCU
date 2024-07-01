@@ -5,7 +5,6 @@ play.py
 *.sh
 /models
 /wandb
-*.yaml
 .DS_Store
 log/
 # Byte-compiled / optimized / DLL files

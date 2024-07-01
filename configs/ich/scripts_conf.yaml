@@ -1,0 +1,11 @@
+data_folder: "/ich/data" # target directory 
+raw_data_folder: "/ich/raw_data" # directory of your original dataset
+client_num: 5
+dirichlet_alpha: 1.0
+seed: 523
+
+resize:
+  height: 224
+  width: 224
+
+unlearn_client: 0
