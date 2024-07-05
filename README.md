@@ -6,3 +6,14 @@
 3. Run the training code.
    python3 train.py --config "../configs/ich/run_conf.yaml"  --excluded_clients 0 --is_unlearn 1
    python3 train.py --config "../configs/isic/run_conf.yaml" --excluded_clients 0 --is_unlearn 1
+# citation
+Please cite our paper if you find this code useful for your research.
+
+```bibtex
+@article{deng2024enable,
+  title={Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging},
+  author={Deng, Zhipeng and Luo, Luyang and Chen, Hao},
+  journal={arXiv preprint arXiv:2407.02356},
+  year={2024}
+}
+```
