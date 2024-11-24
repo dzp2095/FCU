@@ -10,10 +10,12 @@
 Please cite our paper if you find this code useful for your research.
 
 ```bibtex
-@article{deng2024enable,
+@inproceedings{deng2024enable,
   title={Enable the Right to be Forgotten with Federated Client Unlearning in Medical Imaging},
   author={Deng, Zhipeng and Luo, Luyang and Chen, Hao},
-  journal={arXiv preprint arXiv:2407.02356},
-  year={2024}
+  booktitle={International Conference on Medical Image Computing and Computer-Assisted Intervention},
+  pages={240--250},
+  year={2024},
+  organization={Springer}
 }
 ```
